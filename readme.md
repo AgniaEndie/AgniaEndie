@@ -6,7 +6,7 @@
   <a href="https://vk.com/nine_tailed_little_fox">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a>
-  <a href="https://www.google.com/search?q=My+nickname+is%3A+senko_san_fox&oq=My+nickname+is%3A+senko_san_fox&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE1NDE2ajBqMagCALACAA&sourceid=chrome&ie=UTF-8">
+  <a href="https://discord.com/users/408208288208125952">
     <img src="https://img.shields.io/badge/discord-5865f2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://t.me/endienasg">
