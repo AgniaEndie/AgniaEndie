@@ -1,7 +1,7 @@
 <div align="center">
 
 [//]: # (<img src="https://media.giphy.com/media/XEbDXcGQNS2uxnqLuu/giphy.gif" width="100"/>)
-<img src="https://media.discordapp.net/attachments/1151395823003906148/1151479398101426286/frame_39_delay-0.2s.gif" width="100"/>
+<img src="https://media.discordapp.net/attachments/1151395823003906148/1151479365427806249/frame_35_delay-0.2s.gif?ex=665516fa&is=6653c57a&hm=38dcbe40f3eb54ce6eb8db995852b94cb3809538b1f9f2092f088991be3f66ea&=" width="100"/>
 <div id="badges">
   <a href="https://vk.com/nine_tailed_little_fox">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
