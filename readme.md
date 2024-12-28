@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.discordapp.net/attachments/1151395823003906148/1151479338269679626/frame_18_delay-0.2s.gif?ex=66bde633&is=66bc94b3&hm=ca5020b73af27e6fe4d6920287133fc64f72137b52326ba1d38db51bb143b366&" width="100"/>
+<img src="img.png" width="100"/>
 <div id="badges">
   <a href="https://vk.com/nine_tailed_little_fox">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
